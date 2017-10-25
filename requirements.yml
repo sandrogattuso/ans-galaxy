@@ -1,0 +1,5 @@
+---
+- src: git@github.com:sandrogattuso/ans-galaxy.git
+  version: master
+  name: ansible
+  scm: git
